@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1630374529 source:c:\users\siefs\onedrive\desktop\embedded\linked list\double\school\main.c
+	<stdio.h>
+	<stdlib.h>
+	"school.h"
+
+1630374696 c:\users\siefs\onedrive\desktop\embedded\linked list\double\school\school.h
+	<stdbool.h>
+
+1630374799 source:c:\users\siefs\onedrive\desktop\embedded\linked list\double\school\school.c
+	"school.h"
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+
+1630475391 source:f:\embedded\school\main.c
+	<stdio.h>
+	<stdlib.h>
+	"school.h"
+
+1630541734 f:\embedded\school\school.h
+	<stdbool.h>
+
+1630605966 source:f:\embedded\school\school.c
+	"school.h"
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+
